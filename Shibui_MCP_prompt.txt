@@ -1,0 +1,5 @@
+[https://mcp.shibui.finance/mcp](https://mcp.shibui.finance/mcp) install this mcp
+
+Show me US stocks with a P/E under 12, return on equity above 20%, and a market cap over $5 billion. Sort by ROE. Using Shibui
+
+Find large-cap stocks down more than 20% from their 52-week high, but still with a P/E between 5 and 20, ROE above 15%, and profit margins above 10%. Sort by biggest drawdown.
